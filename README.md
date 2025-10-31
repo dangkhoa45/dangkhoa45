@@ -1,23 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fuzjin
-===============================================================================================================================
+<h1 align="center">✨ Hey, I'm <span style="color:#00d8ff;">Fuzjin</span> ✨</h1>
+<h3 align="center">🚀 Building modern web experiences with Next.js & NestJS</h3>
 
-Full-Stack Developer | Next.js, NestJS & TypeScript | AI-Powered SaaS & Web Apps
------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Next.js;Loves+clean+architecture+and+AI-powered+apps&center=true&width=500&height=45"/>
+</p>
+
+### 🧠 About Me
 
 Full Stack Developer with 1+ years of experience specializing in web development and occasional mobile app development. Proficient in modern JavaScript/TypeScript technologies with expertise in building scalable web applications using Node.js, Next.js, and NestJS frameworks.
 
-Skilled in developing end-to-end solutions with a strong focus on frontend (HTML, CSS, JavaScript, TypeScript) and backend (Node.js) technologies. Experienced in working with MongoDB databases to create robust and efficient data-driven applications.
-
-* 🖥️  See my portfolio at [fuzjin.portfolio.vn](http://fuzjin-portfolio.vercel.app/)
-* ✉️  You can contact me at [khoa0310st@gmail.com](mailto:khoa0310st@gmail.com)
-
+- 🔭 Currently working on building scalable SaaS products  
+- 🌱 Learning about **AI integration** in modern web apps  
+- 💬 Ask me about **Next.js**, **NestJS**, or **clean architecture**  
+- ⚡ Fun fact: I love refactoring more than building from scratch 😄
+  
+### 🤝 Connect With Me
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<a href="https://linkedin.com/in/fuzjin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:khoa0310st@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://fuzjin.portfolio.vn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### ⚙️ Tech Stack
 
-<a href="http://www.github.com/dangkhoa45"><img src="https://github-readme-stats.vercel.app/api?username=dangkhoa45&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="dangkhoa45's GitHub stats" /></a>
+Skilled in developing end-to-end solutions with a strong focus on frontend (HTML, CSS, JavaScript, TypeScript) and backend (Node.js) technologies. Experienced in working with MongoDB databases to create robust and efficient data-driven applications.
+
+### 🧩 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+
+---
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=dangkhoa45&show_icons=true&theme=react&hide_border=true" width="45%" />
+
+---
+
+<p align="center">
+  <i>“Turning ideas into beautiful, functional web experiences.”</i>  
+  <br/><br/>
+</p>
 
